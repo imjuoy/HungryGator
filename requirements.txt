@@ -1,0 +1,2 @@
+pip install --upgrade setuptools --user python
+sudo pip install requests
