@@ -1,3 +1,6 @@
+##The below commands will need to be executed for extracting data of restaurants from San Francisco
+##Please run them in order
+
 pip install --upgrade setuptools --user python
 sudo pip install requests
 sudo pip install pandas --ignore-installed numpy

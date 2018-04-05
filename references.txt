@@ -1,0 +1,6 @@
+##Below are the references of external links that have been referred while completing this project
+
+1. https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_excel.html
+2. https://www.datacamp.com/community/tutorials/python-excel-tutorial
+3. https://developers.zomato.com/documentation#!/restaurant/search
+4. https://stackoverflow.com/questions/41651317/reinstalling-numpy-on-os-x-using-pip-can-t-be-modified-or-deleted-because-it

@@ -3,7 +3,6 @@ from pprint import pprint
 import pandas as pd
 from pandas import ExcelWriter
 
-
 headers = {'Content-Type': 'application/json', 'user-key': '592789033e4cf0e384b54c1ec424c706'}
 offset = 0
 restaurantNameList = []
