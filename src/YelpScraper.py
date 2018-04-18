@@ -52,8 +52,6 @@ def crawl_page(zipcode, page_num, verbose=False):
     try:
         assert(len(restaurants) == 10)
     except AssertionError, e:
-        # We make a dangerous assumption that yelp has 10 listing per page,
-        # however this can also be a formatting issue, so watch out
         print 'we have hit the end of the zip code', str(e)
         # False is a special flag, returned when quitting
         return [], False
