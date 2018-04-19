@@ -7,4 +7,4 @@ which platform they should trust w.r.t different restaurants.
 
 Below are the instructions for running the application:
 
-
+pip install -r stable-req.txt 
