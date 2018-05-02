@@ -17,6 +17,7 @@ pip3 install -r stable-req.txt
 
 We are using WordCloud for producing WordCloud on the restaurants.
 You might face issues when trying to import wordcloud in Anaconda.
+
  Follow the below steps to get it resolved:
 
 
