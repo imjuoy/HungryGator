@@ -10,3 +10,4 @@
 8. https://anaconda.org/conda-forge/wordcloud
 9. https://github.com/amueller/word_cloud/issues/246
 10.https://stackoverflow.com/questions/8860731/pip-freeze-requirements-txt-error
+11.https://pandas.pydata.org/pandas-docs/stable/merging.html
