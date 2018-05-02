@@ -21,7 +21,7 @@ You might face issues when trying to import wordcloud in Anaconda.
  Follow the below steps to get it resolved:
 
 
-    i.This most likely happens because in spite of having wordcloud in the local python environment, it is not available to the Anaconda package.
+   i.This most likely happens because in spite of having wordcloud in the local python environment, it is not available to the Anaconda package.
 
 
    ii.Try installing the wordcloud package using the Anaconda terminal.
