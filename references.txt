@@ -5,3 +5,8 @@
 3. https://developers.zomato.com/documentation#!/restaurant/search
 4. https://stackoverflow.com/questions/41651317/reinstalling-numpy-on-os-x-using-pip-can-t-be-modified-or-deleted-because-it
 5. https://stackoverflow.com/questions/11285613/selecting-columns-in-a-pandas-dataframe
+6. https://stackoverflow.com/questions/39299726/cant-find-package-on-anaconda-navigator-what-to-do-next
+7. https://github.com/ContinuumIO/anaconda-issues/issues/1831
+8. https://anaconda.org/conda-forge/wordcloud
+9. https://github.com/amueller/word_cloud/issues/246
+10.https://stackoverflow.com/questions/8860731/pip-freeze-requirements-txt-error
