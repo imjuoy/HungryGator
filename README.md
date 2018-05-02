@@ -2,22 +2,22 @@
 An aggregator of restaurant data.
 
 
-# This is a course-work project.
-This aims to aggregate restaurant data from different online platforms to educate the customer 
-which platform they should trust w.r.t different restaurants.
+This is a course-work project.
 
-Below are the instructions for installing the dependencies for the application:
+This project aims to aggregate restaurant data from different online platforms to educate the customer which platform they should trust w.r.t different restaurants.
 
-pip install -r stable-req.txt 
+# Please run the below command to install the Python packages for the project:
+
+pip3 install -r stable-req.txt 
 
 
+# Follow below instructions if you run into the below issues:
 
-Please follow below instructions if you run into the below issues:
+# 1.ImportError: No module named wordcloud
 
-1. We are using WordCloud for producing WordCloud on the restaurants.
-
---> You might face issues when trying to import wordcloud in Anaconda.
-    Follow the below steps to get it resolved:
+We are using WordCloud for producing WordCloud on the restaurants.
+You might face issues when trying to import wordcloud in Anaconda.
+ Follow the below steps to get it resolved:
 
 
     i.This most likely happens because in spite of having wordcloud in the local python environment, it is not available to the Anaconda package.
