@@ -25,13 +25,17 @@ You might face issues when trying to import wordcloud in Anaconda.
 
 
    ii.Try installing the wordcloud package using the Anaconda terminal.
+      
        If you are using MAC, you might have to change the default shell to bash in order for the Anaconda Shell to run as the shell is available to bash only.
+      
        Use: chsh -s /bin/bash to change the shell from zsh to bash.
+       
        Use: chsh -s /bin/zsh to revert back to zsh later.
 
 
    iii.Once the shell has been changed run the below command on the Anaconda shell to install wordcloud.
-       conda install -c conda-forge wordcloud
+       
+       ## conda install -c conda-forge wordcloud
 
 
    iv.After this ideally the wordcloud import statements should work.
