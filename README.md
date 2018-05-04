@@ -46,6 +46,6 @@ You might face issues when trying to import wordcloud in Anaconda.
 
 Below is a sample results of our analysis of data from the two major restaurant data sites - Zomato and Yelp
 
-![publish message](https://raw.githubusercontent.com/imjuoy/Hungrygator/master/Rating_Comparisons.png)
+![publish message](https://raw.githubusercontent.com/imjuoy/Hungrygator/master/pictures_for_readme/Rating_Comparisons.png)
 
 # You can check the source code for more interesting insights.
