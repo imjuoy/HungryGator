@@ -48,4 +48,10 @@ Below is a sample results of our analysis of data from the two major restaurant 
 
 ![publish message](https://raw.githubusercontent.com/imjuoy/Hungrygator/master/pictures_for_readme/Rating_Comparisons.png)
 
+Below is a word cloud description generated using restaurant reviews from a user entered KeyWord.
+
+![publish message](https://raw.githubusercontent.com/imjuoy/Hungrygator/master/pictures_for_readme/WordCloud_Based_On_Zip_Code.png)
+
+
+
 # You can check the source code for more interesting insights.
