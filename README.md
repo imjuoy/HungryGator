@@ -40,7 +40,11 @@ You might face issues when trying to import wordcloud in Anaconda.
 
    iv.After this ideally the wordcloud import statements should work.
 
+# This can be followed for most imports, if they are not working with normal pip installation. 
 
+The conda commands for installing the packages using conda terminal can be found in :
+
+https://conda.io/docs/user-guide/tasks/manage-pkgs.html
 
 # Results of Our Aggregation:
 
@@ -50,7 +54,7 @@ Below is a sample results of our analysis of data from the two major restaurant 
 
 Below is a word cloud description generated using restaurant reviews from a user entered ZIPCODE.
 
-![publish message](https://raw.githubusercontent.com/imjuoy/Hungrygator/master/pictures_for_readme/WordCloud_Based_On_Zip_Code.png)
+![publish message](https://raw.githubusercontent.com/imjuoy/Hungrygator/master/pictures_for_readme/WordCloud_Based_On_Zip_Code1.gif)
 
 
 # You can check the source code for more interesting insights.
